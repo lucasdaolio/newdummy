@@ -1,6 +1,1 @@
 # newdummy
-
----
-hello
-hello
-hello
